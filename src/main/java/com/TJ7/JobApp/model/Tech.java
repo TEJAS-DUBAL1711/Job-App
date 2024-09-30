@@ -18,3 +18,5 @@ public class Tech {
 
 
 }
+
+// we have to make it beautiful ui
